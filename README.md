@@ -1,4 +1,4 @@
-# 🎯 TalentScout AI – Intelligent Hiring Assistant
+# 🎯 TalentScout AI – Intelligent Hiring Assistant Chatbot
 
 TalentScout AI is a powerful, interactive, and modular hiring assistant powered by **LLaMA 3** via the **Groq API**, built using **LangChain** and **Streamlit**. It simulates the initial phase of a technical interview by gathering candidate information in a conversational manner, validating inputs using both regex and LLMs, and preparing the candidate profile for further analysis or question generation.
 
