@@ -1,0 +1,12 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environment
+talentScout/
+
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore environment files
+.env
