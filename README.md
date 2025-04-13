@@ -118,7 +118,7 @@ Based on the inputs: Name, Role, Tech Stack, Experience – write a short summar
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/talentscout-ai.git
+git clone https://github.com/sahilkarale/Intelligent-Hiring-Assistant-Chatbot.git
 cd talentscout-ai
 ```
 
